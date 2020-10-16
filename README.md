@@ -50,7 +50,7 @@ this website is covering the reading  material of different levels
 
 # Topics will be covered in 301 
 
-![](https://i.pinimg.com/originals/47/00/f7/4700f7e697adbd06e67869e51df14133.jpg)
+
 
 | Modules |  Topics  |
 |:-----------------: |-------------:|
