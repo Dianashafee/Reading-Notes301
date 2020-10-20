@@ -54,8 +54,8 @@ this website is covering the reading  material of different levels
 
 | Modules |  Topics  |
 |:-----------------: |-------------:|
-  |.[*read01*].(https://dianashafee.github.io/Reading-Notes301/read01)|Responsive & SMACSS|
-  |.[*read02*](https://dianashafee.github.io/Reading-Notes301/read01)|JQuery In Lines |
+  |.[*read01*](https://dianashafee.github.io/Reading-Notes301/read01)|Responsive & SMACSS|
+  |.[*read02*](https://dianashafee.github.io/Reading-Notes301/read02)|JQuery In Lines |
   |.[*read03*](https://dianashafee.github.io/Reading-Notes301/read03)|FlexBox & Mustash|
   |.[*read04*](https://dianashafee.github.io/Reading-Notes301/read04)|Grid & REGEX|
   |*read05*|Heroku|
