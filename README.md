@@ -59,9 +59,9 @@ this website is covering the reading  material of different levels
   |.[*read03*](https://dianashafee.github.io/Reading-Notes301/read03)|FlexBox & Mustash|
   |.[*read04*](https://dianashafee.github.io/Reading-Notes301/read04)|Grid & REGEX|
   |.[*read05*](https://dianashafee.github.io/Reading-Notes301/read05)|Heroku|
- |.[*read06*]((https://dianashafee.github.io/Reading-Notes301/read06)|Node.js 4 Beginners|
- |.[*read07*]((https://dianashafee.github.io/Reading-Notes301/read07)|What Google Learned About Teams|
- |*read08*|SQL The Essintals|
+ |.[*read06*](https://dianashafee.github.io/Reading-Notes301/read06)|Node.js 4 Beginners|
+ |.[*read07*](https://dianashafee.github.io/Reading-Notes301/read07)|What Google Learned About Teams|
+ |.[*read08*](https://dianashafee.github.io/Reading-Notes301/read08)|SQL The Essintals|
  |*read09*|Refactoring|
  |*read10*|The Call stack|
  |*read11*|EJS|
