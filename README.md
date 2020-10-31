@@ -63,8 +63,8 @@ this website is covering the reading  material of different levels
  |.[*read07*](https://dianashafee.github.io/Reading-Notes301/read07)|What Google Learned About Teams|
  |.[*read08*](https://dianashafee.github.io/Reading-Notes301/read08)|SQL The Essintals|
  |.[*read09*](https://dianashafee.github.io/Reading-Notes301/read09)|Refactoring|
- |*read10*|The Call stack|
- |*read11*|EJS|
+ |.[*read10*](https://dianashafee.github.io/Reading-Notes301/read10)|The Call stack|
+ |.[*read11*](https://dianashafee.github.io/Reading-Notes301/read11)|EJS|
  |*read12*|EJS2 |
  |*read13*|EJS3|
  |*read14*|DB Normaliz|
