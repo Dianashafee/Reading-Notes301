@@ -65,7 +65,7 @@ this website is covering the reading  material of different levels
  |.[*read09*](https://dianashafee.github.io/Reading-Notes301/read09)|Refactoring|
  |.[*read10*](https://dianashafee.github.io/Reading-Notes301/read10)|The Call stack|
  |.[*read11*](https://dianashafee.github.io/Reading-Notes301/read11)|EJS|
- |*read12*|EJS2 |
+ |.[*read12*](https://dianashafee.github.io/Reading-Notes301/read11)|EJS2 |
  |*read13*|EJS3|
  |*read14*|DB Normaliz|
  |*read15*|DIVERSITY & INCLUSION|
