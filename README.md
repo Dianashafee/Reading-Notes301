@@ -67,7 +67,7 @@ this website is covering the reading  material of different levels
  |.[*read11*](https://dianashafee.github.io/Reading-Notes301/read11)|EJS|
  |.[*read12*](https://dianashafee.github.io/Reading-Notes301/read12)|EJS2 |
  |.[*read13*](https://dianashafee.github.io/Reading-Notes301/read13)|EJS3|
- |*read14*|DB Normaliz|
+ |.[*read14*](https://dianashafee.github.io/Reading-Notes301/read14)|DB Normaliz|
  |*read15*|DIVERSITY & INCLUSION|
 
 
