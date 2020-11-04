@@ -9,7 +9,7 @@ Unfortunately, determining what makes a team diverse isn’t so simple.
 Diversity incorporates all of the elements that make individuals unique from one another, and while there are infinite differences in humans, most of us subconsciously define diversity by a few social categories, such as gender, race, age and so forth.
 
 
-![](https://www.worldatwork.org/workspan/media/DiversityInclusion.jpg)
+![](https://images.pexels.com/photos/3394141/pexels-photo-3394141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 ## What is Inclusion in the Workplace?
 
